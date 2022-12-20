@@ -1,6 +1,6 @@
 # Projects
 
-## Pipelined RISC-V CPU (WIP)
+## Pipelined RISC-V CPU
 
 I designed a pipelined RISC-V CPU in System Verilog for my computer architecture class final project. This processor supports almost all I, S, R, B, and J instructions for the RV32I instruction set. Down below, you can explore the repository that includes all of the code for this project!
 <br>
@@ -23,19 +23,19 @@ Since my school had extra stock of blood / heart sensors, I decided to design ci
 Electrocardiogram (EKG):
 <br>
 EKG's essentially measure the voltage across certain parts of your body which makes them a great way to measure a pulse.
-![EKG](ekg.jpg)
+![EKG](ekg.png)
 <br><br>
 Pulse Oximeter:
 <br>
 Pulse Oximeter sensors output a voltage depending on the light that shines through your finger; they're used for measuring blood oxidation.
-![Pulse Oximeter](pulse_oximeter.jpg)
+![Pulse Oximeter](pulse_oximeter.png)
 ![Pulse Oximeter Circuit](pulse_oximeter_circuit.png)
 <br><br>
 Ballistocardiogram:
 <br>
 By using a scale as my sensor, I made a circuit that can measure someone's pulse just by having them stand on it. This is because your heart applies a small (but detectable) downwards pressure when it pumps.
 <br>
-![Ballistocardiogram](ballistocardiogram.jpg)
+![Ballistocardiogram](ballistocardiogram.png)
 ![Ballistocardiogram Circuit](ballistocardiogram_circuit.png)
 <br>
 
