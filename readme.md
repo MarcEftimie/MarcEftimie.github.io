@@ -28,8 +28,8 @@ EKG's essentially measure the voltage across certain parts of your body which ma
 Pulse Oximeter:
 <br>
 Pulse Oximeter sensors output a voltage depending on the light that shines through your finger; they're used for measuring blood oxidation.
-![Pulse Oximeter](pulse_oximeter.png)
-![Pulse Oximeter Circuit](pulse_oximeter_circuit.png)
+![Pulse Oximeter](pulse-oximeter.png)
+![Pulse Oximeter Circuit](pulse-oximeter-circuit.png)
 <br><br>
 Ballistocardiogram:
 <br>
