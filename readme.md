@@ -23,14 +23,17 @@ Since my school had extra stock of blood / heart sensors, I decided to design ci
 Electrocardiogram (EKG):
 <br>
 EKG's essentially measure the voltage across certain parts of your body which makes them a great way to measure a pulse.
+<br>
 ![EKG](ekg.png)
 <br><br>
 Pulse Oximeter:
 <br>
 Pulse Oximeter sensors output a voltage depending on the light that shines through your finger; they're used for measuring blood oxidation.
+<br>
 ![Pulse Oximeter](pulse-oximeter.png)
+<br>
 ![Pulse Oximeter Circuit](pulse-oximeter-circuit.png)
-<br><br>
+<br>
 Ballistocardiogram:
 <br>
 By using a scale as my sensor, I made a circuit that can measure someone's pulse just by having them stand on it. This is because your heart applies a small (but detectable) downwards pressure when it pumps.
