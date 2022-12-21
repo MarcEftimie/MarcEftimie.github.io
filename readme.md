@@ -36,7 +36,7 @@ Ballistocardiogram:
 By using a scale as my sensor, I made a circuit that can measure someone's pulse just by having them stand on it. This is because your heart applies a small (but detectable) downwards pressure when it pumps.
 <br>
 ![Ballistocardiogram](ballistocardiogram.png)
-![Ballistocardiogram Circuit](ballistocardiogram_circuit.png)
+![Ballistocardiogram Circuit](ballistocardiogram-circuit.png)
 <br>
 
 ## Solid Rocket Engine
@@ -44,8 +44,8 @@ By using a scale as my sensor, I made a circuit that can measure someone's pulse
 This year I had the opportunity to lead the Olin Rocketry Engine sub-team. My team is responsible for developing Olin Rocketry's proprietary propulsion system; this includes designing each part that goes into a solid rocket engine, making our own fuel, and settings up testing rigs to gather data from test launches. In a few weeks, my team has designed a completely new engine casing along with integrating new pressure and force transducers compared to last year's design. Currently, we are in the process of machining parts to get ready for a test launch happening in January.
 <br><br>
 The Phobos V3 Engine:
-![Phobos V3 Engine](engine_cad.png)
+![Phobos V3 Engine](engine-cad.png)
 <br><br>
 Test Launch Stand:
-![Test Stand](test_stand.png)
+![Test Stand](test-stand.png)
 <br><br>
